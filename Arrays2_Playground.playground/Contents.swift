@@ -14,3 +14,9 @@ print(idades)
 
 idades.sort()
 print(idades)
+
+idades.reverse()
+print(idades)
+
+idades.shuffle()
+print(idades)
